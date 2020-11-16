@@ -1,41 +1,40 @@
-	1.	<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd …">
-	2.	<plist version="1.0">
-	3.	<dict>
-	4.	<key>items</key>
-	5.	<array>
-	6.	<dict>
-	7.	<key>assets</key>
-	8.	<array>
-	9.	<dict>
-	10.	<key>kind</key>
-	11.	<string>software-package</string>
-	12.	<key>url</key>
-	13.	<string> https://share.dmca.gripe/WuuGfABS3O0LPX7o.ipa
-	14.	</dict>
-	15.	<dict>
-	16.	<key>kind</key>
-	17.	<string> https://share.dmca.gripe/OFOUla49Ok93JQoK.WEBP </string>
-	18.	<key>url</key>
-	19.	<string>  https://iportal.tk/img/iPortal.png 
-	20.	</dict>
-	21.	<dict>
-	22.	<key>kind</key>
-	23.	<string>full-size-image</string>
-	24.	<key>url</key>
-	25.	<string> https://iportal.tk/img/iPortal.png
-	26.	</dict>
-	27.	</array>
-	28.	<key>metadata</key>
-	29.	<dict>
-	30.	<key>com.spotify.ios</key>
-	31.	<string>com.ios.Spotilife</string>
-	32.	<key>8.5.53</key>
-	33.	<string>1</string>
-	34.	<key>kind</key>
-	35.	<string>software</string>
-	36.	<key>Spotilife</key>
-	37.	<string>Spotify++</string>
-	38.	</dict>
+		<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd …">	<plist version="1.0">
+		<dict>
+		<key>items</key>
+		<array>
+		<dict>
+  	        <key>assets</key>
+		<array>
+          	<dict>
+		<key>kind</key>
+		<string>software-package</string>
+		<key>url</key>
+		<string> https://share.dmca.gripe/WuuGfABS3O0LPX7o.ipa
+		</dict>
+		<dict>
+		<key>kind</key>
+		<string> https://share.dmca.gripe/OFOUla49Ok93JQoK.WEBP </string>
+	        <key>url</key>
+		<string>  https://iportal.tk/img/iPortal.png 
+		</dict>
+		<dict>
+		<key>kind</key>
+		<string>full-size-image</string>
+		<key>url</key>
+		<string> https://iportal.tk/img/iPortal.png
+		</dict>
+		</array>
+		<key>metadata</key>
+		<dict>
+		<key>com.spotify.ios</key>
+		<string>com.ios.Spotilife</string>
+		<key>8.5.53</key>
+		<string>1</string>
+		<key>kind</key>
+		<string>software</string>
+		<key>Spotilife</key>
+		<string>Spotify++</string>
+		</dict>
 	39.	</dict>
 	40.	</array>
 	41.	</dict>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd …">
+<plist version="1.0">
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://drive.google.com/uc?export=download&confirm=F40l&id=1LLz4UIF8h86pSXAXIorn998on5x5YMym</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>com.zombiegun3d </string>
+<key>bundle-version</key>
+<string>21.2.2</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>Pixel Gun 3D</string>
+</dict>
+</dict>
+</array>
+</dict>
+</plist>
